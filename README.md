@@ -1,5 +1,8 @@
 # AgriSense_Mobile Application Documentation
-##Smart Farming Solutions
+
+## App Name
+
+## Smart Farming Solutions
 
 ## Table of Contents
 
